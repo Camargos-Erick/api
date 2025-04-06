@@ -1,3 +1,4 @@
 yt_dlp
 Flask
 CORS
+gunicorn
